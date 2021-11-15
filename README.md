@@ -1,1 +1,2 @@
 # AreaTrapezio
+Aprendendo sobre o git e github. Esta atividade estava no bando do NetBeans e foi colocada no github através do site e posteriormente clonada para o eclipse. Fiz isso por que ao editar no netbeans as alterações não ocorriam, porém ao clonar para o Eclipse elas funcionaram normalmente. Eu edito no eclipse e commito pelo GitHub Desktop.
