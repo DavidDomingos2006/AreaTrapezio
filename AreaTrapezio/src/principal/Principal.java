@@ -13,7 +13,7 @@ import Trapezio.Dados;
 public class Principal {
     
     public static void main(String[] args) {
-        
+        //todos os dados lançados na classe dados
         Dados trapezio = new Dados();
         trapezio.areaTrapezio();
         
